@@ -1,0 +1,4 @@
+interface IInformable
+{
+    string MostrarInformacion();
+}
